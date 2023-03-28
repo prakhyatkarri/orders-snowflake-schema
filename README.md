@@ -1,1 +1,1 @@
-# orders-snowflake-schema
+![image](./schema.png)
